@@ -1,0 +1,10 @@
+{
+  "mod_id": "jadedcat_mixpack_overrides",
+  "mod_name": "Jadedcat Mixpack Overrides",
+  "mod_dir": "/Jadedcat_Mixpack/",
+  "mod_version": "v0.0.1",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Jadedcat"],
+  "url_website": "",
+  "description": "Overrides for Jadedcats Mixpack"
+}
